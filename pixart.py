@@ -147,4 +147,3 @@ def clear_screen():
     t.penup()                               
     t.goto(-300,300)
     t.pendown()
-    
